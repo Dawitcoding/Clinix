@@ -5,7 +5,7 @@ import Doctor from "./pages/Doctors";
 import Doctors from "./pages/Doctors";
 import Login from "./pages/Login";
 import About from "./pages/About";
-import Myprofile from "./pages/MyProfile";
+import MyProfile from "./pages/MyProfile";
 import MyAppointment from "./pages/MyAppointment";
 import Appointment from "./pages/Appointment";
 import Navbar from "./components/Navbar";
